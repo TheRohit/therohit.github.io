@@ -782,7 +782,7 @@ figure {
 }
 
 /* Footer */
-.resume { z-index: 1; }
+
 /* Particles container */
 #particles-js {
   width: 100%;
@@ -798,4 +798,20 @@ figure {
   grid-template-columns: 50% 50%;
   grid-gap: 0 20px;
   margin-left: -20px;
+}
+.sed{
+  z-index: 11;
+}
+
+.letme{
+  z-index: 11;
+}
+
+.found{
+  color: white;
+}
+
+
+img {
+  border-radius: 50%;
 }
