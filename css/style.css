@@ -801,6 +801,7 @@ figure {
 }
 .sed{
   z-index: 11;
+
 }
 
 .letme{
@@ -814,4 +815,10 @@ figure {
 
 img {
   border-radius: 50%;
+}
+
+.rep{
+  
+  
+  
 }
